@@ -1,7 +1,7 @@
 .banner{
     background-color:rgb(36, 36, 163);
     height:80px;
-    width: 600px;
+    width: 400px;
     border: 1px solid black;
     border-bottom: none;
 }
@@ -9,7 +9,7 @@
     font-family: 'Trebuchet MS';
     display:flex;
     flex-direction: column;
-    width:600px;
+    width:400px;
     height: 200px;
     background-color: lightgray;
     border-radius: 2px;
@@ -25,7 +25,7 @@
 .title{
     position: relative;
     top:-100px;
-    margin-left:35px;
+    margin-left:30px;
 }
 .location {
     font-size: 18px;
