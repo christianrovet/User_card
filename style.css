@@ -1,0 +1,59 @@
+.banner{
+    background-color:rgb(36, 36, 163);
+    height:80px;
+    width: 600px;
+    border: 1px solid black;
+    border-bottom: none;
+}
+.card {
+    font-family: 'Trebuchet MS';
+    display:flex;
+    flex-direction: column;
+    width:600px;
+    height: 200px;
+    background-color: lightgray;
+    border-radius: 2px;
+    border: 1px solid black;
+    border-top: none;
+}
+.img{
+    border-radius: 50%;
+    position: relative;
+    top: -75px;
+    margin-left:30px;
+}
+.title{
+    position: relative;
+    top:-100px;
+    margin-left:35px;
+}
+.location {
+    font-size: 18px;
+    font-weight: bolder;
+    position: relative;
+    top:-135px;
+    margin-left:25px;
+}
+.main{
+    position: relative;
+    top:-135px;
+    margin-left:25px;
+    font-weight: bold;
+}
+.line1{
+    position: relative;
+    top: -25px;
+}
+.line2{
+    position: relative;
+    top: -40px;
+}
+a {
+    font-size: 18px;
+    position: relative;
+    top: -40px;
+}
+
+a:hover {
+    opacity: 0.7;
+}
